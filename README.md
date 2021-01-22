@@ -2,7 +2,7 @@
 
 1. word2vector
 
-https://github.com/RogerJTX/Paper_sharing/blob/master/Nolinear%20Evidence%20Fusion%20and%20Propagation%20for%20Hyponymy%20Relation%20Ming.png
+Automatic Acquisition of Hypoyms from Large Text Corpora.png
 
 
 
