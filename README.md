@@ -12,4 +12,40 @@ Automatic_Acquisition_of_Hyponyms_from_Large_Text_Corpora
 # Basic
 
 ![image](https://github.com/RogerJTX/Notes_And_Paper_Sharing/blob/master/image_basic/cn_dbpedia01.jpg)
+
 ![image](https://github.com/RogerJTX/Notes_And_Paper_Sharing/blob/master/image_basic/topbase01.jpg)
+
+
+# Data
+
+![image](https://github.com/RogerJTX/Notes_And_Paper_Sharing/blob/master/image_data/domain_model.jpg)
+
+![image](https://github.com/RogerJTX/Notes_And_Paper_Sharing/blob/master/image_data/domain_model02.png)
+
+![image](https://github.com/RogerJTX/Notes_And_Paper_Sharing/blob/master/image_data/music_code_02.jpg)
+
+
+# Medical
+
+![image](https://github.com/RogerJTX/Notes_And_Paper_Sharing/blob/master/image_medical/covid_CT02.jpg)
+
+![image](https://github.com/RogerJTX/Notes_And_Paper_Sharing/blob/master/image_medical/covid_CT03.jpg)
+
+
+# Biology
+
+![image](https://github.com/RogerJTX/Notes_And_Paper_Sharing/blob/master/image_biology/Image15.jpg)
+
+![image](https://github.com/RogerJTX/Notes_And_Paper_Sharing/blob/master/image_biology/Image18.jpg)
+
+![image](https://github.com/RogerJTX/Notes_And_Paper_Sharing/blob/master/image_biology/Image20.jpg)
+
+# Project Map
+
+![image](https://github.com/RogerJTX/Notes_And_Paper_Sharing/blob/master/image_project_map/title_generation.png)
+
+
+# Code
+
+![image](https://github.com/RogerJTX/Notes_And_Paper_Sharing/blob/master/image_code/Gradient_descent.png)
+
