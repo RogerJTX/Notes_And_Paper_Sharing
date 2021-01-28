@@ -7,7 +7,7 @@ Main Notes Website
 url: https://rogerjtx.github.io/
 
 Word2Vector [ELMo, Bert, ALBert]    
-url: https://rogerjtx.github.io/word2vector.io/
+url: https://rogerjtx.github.io/word2vector/
 
 Topbase Knowledge Graph Paper Reproduction And Technical Documentation  
 url:
