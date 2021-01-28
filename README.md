@@ -2,7 +2,7 @@
 
 >https://rogerjtx.github.io/
 
-```
+
 Main Notes Website
 url: https://rogerjtx.github.io/
 
@@ -31,7 +31,7 @@ url:
 Medical Image Recognition [COVID-19]
 url:
 
-```
+
 
 # Academic Papers
 
