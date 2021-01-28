@@ -1,10 +1,8 @@
 # My Programming Notes Website
 
->https://rogerjtx.github.io/
 
-
-Main Notes Website  
-url: https://rogerjtx.github.io/
+>Main Notes Website  
+>url: https://rogerjtx.github.io/
 
 Word2Vector [ELMo, Bert, ALBert]    
 url: https://rogerjtx.github.io/Word2Vector.io/
