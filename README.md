@@ -1,16 +1,16 @@
 # My Programming Notes Website
 
->https://rogerjtx.github.io/
+[https://rogerjtx.github.io/](https://rogerjtx.github.io/)
 
 
 Main Notes Website  
-url: https://rogerjtx.github.io/
+url: [https://rogerjtx.github.io/](https://rogerjtx.github.io/)
 
 Word2Vector [ELMo, Bert, ALBert]    
-url: https://rogerjtx.github.io/word2vector/
+url: [https://rogerjtx.github.io/word2vector.io/](https://rogerjtx.github.io/word2vector.io/) 
 
 Topbase Knowledge Graph Paper Reproduction And Technical Documentation  
-[https://rogerjtx.github.io/topbase_knowledge_graph/](https://rogerjtx.github.io/topbase_knowledge_graph/)
+url: [https://rogerjtx.github.io/topbase_knowledge_graph/](https://rogerjtx.github.io/topbase_knowledge_graph/)
 
 Automatic Code Generation  
 url:
