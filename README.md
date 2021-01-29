@@ -26,7 +26,7 @@ url:
 Patent System Keyword Extractor    
 url:
 
-Expert Knowledge Graph KbpPipeline
+Expert Knowledge Graph KbpPipeline  
 [https://rogerjtx.github.io/kbp_pipeline/](https://rogerjtx.github.io/kbp_pipeline/) 
 
 Image Style Feature Fusion  
