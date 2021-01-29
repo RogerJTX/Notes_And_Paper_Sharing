@@ -3,6 +3,8 @@
 [https://rogerjtx.github.io/](https://rogerjtx.github.io/)
 
 
+# My Main Notes Websites
+
 Main Notes Website  
 [https://rogerjtx.github.io/](https://rogerjtx.github.io/)
 
@@ -18,12 +20,14 @@ Automatic Code Generation [based on GPT-2]
 Comelot Table Image Recognition   
 url:
 
-Aminer Expert Know Graph  
+Aminer Expert Knowledge Graph  
 url:
 
-Patent Systemt Keyword Extractor    
+Patent System Keyword Extractor    
 url:
 
+Expert Knowledge Graph KbpPipeline
+[https://rogerjtx.github.io/kbp_pipeline/](https://rogerjtx.github.io/kbp_pipeline/) 
 
 Image Style Feature Fusion  
 url:
