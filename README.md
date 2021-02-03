@@ -5,9 +5,12 @@
 
 # My Main Notes Websites
 
-Main Notes Website  
+Host  
 [https://rogerjtx.github.io/](https://rogerjtx.github.io/)
 
+Neural Network [CNN, RNN]  
+[https://rogerjtx.github.io/neural_network/](https://rogerjtx.github.io/neural_network/)
+ 
 Word2Vector [ELMo, Bert, ALBert]    
 [https://rogerjtx.github.io/word2vector.io/](https://rogerjtx.github.io/word2vector.io/) 
 
@@ -37,7 +40,6 @@ url:
 
 Medical Image Recognition [COVID-19]    
 url:
-
 
 
 # Academic Papers
