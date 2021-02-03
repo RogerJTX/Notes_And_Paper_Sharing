@@ -14,22 +14,25 @@ Word2Vector [ELMo, Bert, ALBert]
 Topbase Knowledge Graph Paper Reproduction And Technical Documentation  
 [https://rogerjtx.github.io/topbase_knowledge_graph/](https://rogerjtx.github.io/topbase_knowledge_graph/)
 
-Automatic Code Generation [based on GPT-2]  
+Automatic Code Generation [based on GPT-2]   
 [https://rogerjtx.github.io/auto_code_generation/](https://rogerjtx.github.io/auto_code_generation/)
 
 Comelot Table Image Recognition   
 url:
 
-Aminer Expert Knowledge Graph  
+Aminer Knowledge Graph Comprehensive Technical Document  
 url:
 
 Patent System Keyword Extractor    
-url:
+[https://rogerjtx.github.io/patent_knowledge_graph/](https://rogerjtx.github.io/patent_knowledge_graph/)
 
 Expert Knowledge Graph KbpPipeline  
 [https://rogerjtx.github.io/kbp_pipeline/](https://rogerjtx.github.io/kbp_pipeline/) 
 
-Image Style Feature Fusion  
+Arbitrary Style Transfer via Multi-Adaptation Network 
+url:
+
+Image Segmentation Based on Overlapping Cells  
 url:
 
 Medical Image Recognition [COVID-19]    
