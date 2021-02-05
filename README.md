@@ -8,7 +8,7 @@
 Host  
 [https://rogerjtx.github.io/](https://rogerjtx.github.io/)
 
-Neural Network [CNN, RNN]  
+Neural Network [CNN, RNN, GAN]  
 [https://rogerjtx.github.io/neural_network/](https://rogerjtx.github.io/neural_network/)
  
 Word2Vector [ELMo, Bert, ALBert]    
@@ -32,14 +32,15 @@ Patent System Keyword Extractor
 Expert Knowledge Graph KbpPipeline  
 [https://rogerjtx.github.io/kbp_pipeline/](https://rogerjtx.github.io/kbp_pipeline/) 
 
-Arbitrary Style Transfer via Multi-Adaptation Network 
+Arbitrary Style Transfer via Multi-Adaptation Network  
 url:
 
 Image Segmentation Based on Overlapping Cells  
 url:
 
 Medical Image Recognition [COVID-19]    
-url:
+[https://rogerjtx.github.io/medical_image_recognition](https://rogerjtx.github.io/medical_image_recognition)
+
 
 
 # Academic Papers
